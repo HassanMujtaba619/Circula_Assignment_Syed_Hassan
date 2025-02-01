@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cypress": "^14.0.1",
+    "node": "^23.7.0"
+  },
+  "name": "assignments_syed_hassan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress-if": "^1.13.2",
+    "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
