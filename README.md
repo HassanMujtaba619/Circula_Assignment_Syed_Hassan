@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-Welcome to the **Circula Assignment** project! This repository contains a web application built using JavaScript/Node.js. The project includes automated testing using Cypress and may leverage React for the front-end.
+Welcome to the **Circula Assignment** project! This repository contains a web application built using JavaScript/Node.js. The project includes automated testing using Cypress.
 
 This project is designed to provide a robust and scalable solution for handling web-based functionalities with a strong emphasis on automated testing and maintainability.
 
