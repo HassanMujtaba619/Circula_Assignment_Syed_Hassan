@@ -143,6 +143,49 @@ This project uses the following key dependencies:
 - ⚡ **Fast & scalable** with Express.js
 
 ---
+# 🚀 Cypress Test Run Results
+
+## 🏁 Run Summary
+
+| **Property**           | **Value**                                  |
+|------------------------|-------------------------------------------|
+| 🏆 **Cypress Version** | 14.0.1                                    |
+| 🌍 **Browser**        | Electron 130 (headless)                   |
+| 🔗 **Node Version**   | v23.7.0                                   |
+| 📜 **Spec Found**     | 1 (`signup_process.cy.js`)                |
+| 🔍 **Searched**       | `cypress/e2e/**/*.cy.{js,jsx,ts,tsx}`     |
+
+---
+
+## 📌 Running: **signup_process.cy.js** (1 of 1)
+
+| 📝 **Test Case** | ✅ **Status** | ⏳ **Duration** |
+|-----------------|--------------|----------------|
+| **Should complete the signup process with valid data** | ✅ Passed | ⏱ 13.4s |
+| **Should display an error for invalid email format** | ✅ Passed | ⏱ 6.6s |
+| **Should display an error if terms are not agreed to** | ✅ Passed | ⏱ 8.0s |
+| **Should display errors for missing required fields** | ✅ Passed | ⏱ 6.1s |
+| **Should display errors for missing first name and last name** | ✅ Passed | ⏱ 8.6s |
+| **Should display errors for missing company name and referral source** | ✅ Passed | ⏱ 9.5s |
+
+---
+
+## 📊 Test Results
+
+| **Metric**        | **Value**      |
+|------------------|---------------|
+| ✅ **Total Passing Tests** | 6 |
+| ❌ **Total Failing Tests** | 0 |
+| ⏳ **Total Pending Tests** | 0 |
+| 🚫 **Total Skipped Tests** | 0 |
+
+## 🏁 Final Summary
+
+| 📜 **Spec** | ⏳ **Duration** | ✅ **Tests** | ✅ **Passing** | ❌ **Failing** | ⏳ **Pending** | 🚫 **Skipped** |
+|------------|---------------|-------------|--------------|--------------|--------------|--------------|
+| `signup_process.cy.js` | **00:58** | **6** | **6** | **-** | **-** | **-** |
+
+---
 
 🌐 GitHub: [Project Repository](https://github.com/HassanMujtaba619/Circula_Assignment_Syed_Hassan/tree/master)
 
