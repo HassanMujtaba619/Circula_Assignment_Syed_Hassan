@@ -133,7 +133,6 @@ This project uses the following key dependencies:
 - **Express.js** - Web framework for Node.js
 - **Cypress** - End-to-end testing framework
 - **dotenv** - Environment variable management
-- **Jest** - Unit testing framework
 
 ---
 
@@ -142,19 +141,7 @@ This project uses the following key dependencies:
 - ✅ **Automated testing** with Cypress & Jest
 - 📦 **Environment configuration** using `.env` files
 - ⚡ **Fast & scalable** with Express.js
-- 🎨 **React integration** *(if applicable)* for frontend development
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a new branch (`feature-branch`)
-3. Make your changes and commit
-4. Push to your branch
-5. Submit a Pull Request ✅
 ---
 
 🌐 GitHub: [Project Repository](https://github.com/HassanMujtaba619/Circula_Assignment_Syed_Hassan/tree/master)
